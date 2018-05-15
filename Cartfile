@@ -1,0 +1,6 @@
+#Dependencies
+github "ReactiveX/RxSwift" ~> 4.1
+
+#Test dependencies
+github "Quick/Quick"
+github "Quick/Nimble"
