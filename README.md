@@ -25,3 +25,5 @@ $ carthage bootstrap --platform iOS --cache-builds
 
 4. Open `RickAndMorty.xcodeproj` and build the project!
 
+
+## This repository was used to support **[this article](http://blog.indoorway.com/how-to-let-rick-and-morty-work-together-sharing-code-between-similar-ios-apps-58bca818fde4)** 
