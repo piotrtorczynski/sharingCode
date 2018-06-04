@@ -4,7 +4,6 @@ enum Scheme: String {
     case https = "https"
 }
 
-
 /// Interface for the API services
 protocol APIURLBuilder {
     
